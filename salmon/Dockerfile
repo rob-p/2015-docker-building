@@ -4,7 +4,7 @@ MAINTAINER titus@idyll.org
 
 ENV PACKAGES git gcc make g++ cmake libboost-all-dev liblzma-dev \
     ca-certificates zlib1g-dev curl unzip autoconf
-ENV SALMON_VERSION v0.5.0
+ENV SALMON_VERSION v0.6.1-pre
 
 # salmon binary will be installed in /home/salmon/bin/salmon
 
